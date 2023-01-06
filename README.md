@@ -13,8 +13,7 @@
 "Aprender a programar aumenta a mente, ajuda a pensar melhor."
 > Bill Gates – Fundador da Microsoft
 
-# Projetos Baseados na playlist:**
-[Playlist](https://www.youtube.com/playlist?list=PLj45wIw9J1ORPHDVmoNPQkgeouhn-6ETL)
+# Projetos Baseados na playlist: [JavaScript Projects for Beginners with Source Code](https://www.youtube.com/playlist?list=PLj45wIw9J1ORPHDVmoNPQkgeouhn-6ETL)
 
 - [x] Alternar tema claro/escuro usando HTML CSS e JavaScript;
 - [] Relógio digital usando HTML CSS e JavaScript;
