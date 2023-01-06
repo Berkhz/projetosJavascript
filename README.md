@@ -8,7 +8,7 @@
 # Projetos Baseados na playlist:**
 [Playlist](https://www.youtube.com/playlist?list=PLj45wIw9J1ORPHDVmoNPQkgeouhn-6ETL)
 
-- [] Alternar tema claro/escuro usando HTML CSS e JavaScript;
+- [x] Alternar tema claro/escuro usando HTML CSS e JavaScript;
 - [] Relógio digital usando HTML CSS e JavaScript;
 - [] Temporizador de contagem regressiva usando HTML CSS e JavaScript;
 - [] Cronômetro usando HTML CSS e JavaScript;
