@@ -1,8 +1,4 @@
 # projetosJavascript 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
 ## Projetos para iniciante em Javascript 
 ### Iniciado no dia 06/01/2023
 
@@ -55,7 +51,8 @@
 "É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso."
 > Bill Gates
 
-# Neste projeto foram utilizado as linguagens/frameworks:
+## Ferramentas e tecnologias utilizadas:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 - [Bootstrap](https://getbootstrap.com/)
 - CSS 
 - HTML
