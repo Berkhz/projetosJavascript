@@ -16,6 +16,7 @@
 # Projetos Baseados na playlist: 
 [JavaScript Projects for Beginners with Source Code](https://www.youtube.com/playlist?list=PLj45wIw9J1ORPHDVmoNPQkgeouhn-6ETL)
 
+## Projetos que serão realizados:
 - [x] Alternar tema claro/escuro usando HTML CSS e JavaScript;
 - [] Relógio digital usando HTML CSS e JavaScript;
 - [] Temporizador de contagem regressiva usando HTML CSS e JavaScript;
