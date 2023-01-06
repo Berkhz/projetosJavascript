@@ -51,5 +51,11 @@
 "É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso."
 > Bill Gates
 
+# Neste projeto foram utilizado as linguagens/frameworks:
+- [Bootstrap](https://getbootstrap.com/)
+- CSS 
+- HTML
+- [JavaScript](https://www.javascript.com/)
+
 **Projeto modificado por:**
 _© Kauan Henrique Bertalha_ 
