@@ -1,7 +1,6 @@
 # projetosJavascript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 ## Projetos para iniciante em Javascript 
-## Bem vindo(a), meu nome é Kauan Henrique Bertalha e eu criei esse repositório com vários projetos iniciantes,
-## bem interessantes para quem está querendo começar a fazer seus próprios projetos ou aumentar seu portfólio!
+### Bem vindo(a), meu nome é Kauan Henrique Bertalha e eu criei esse repositório com vários projetos iniciantes, bem interessantes para quem está querendo começar a fazer seus próprios projetos ou aumentar seu portfólio!
 
 ## Ferramentas e tecnologias utilizadas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
