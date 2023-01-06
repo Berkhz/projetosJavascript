@@ -1,5 +1,20 @@
 # projetosJavascript 
 ## Projetos para iniciante em Javascript 
+
+## Ferramentas e tecnologias utilizadas:
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>                 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                    
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
+
+
+- [Bootstrap](https://getbootstrap.com/)
+- CSS 
+- HTML
+- [JavaScript](https://www.javascript.com/)
+
 ### Iniciado no dia 06/01/2023
 
 "Aprender a programar aumenta a mente, ajuda a pensar melhor."
@@ -50,13 +65,6 @@
 
 "É genial festejar o sucesso, mas é mais importante aprender com as lições do fracasso."
 > Bill Gates
-
-## Ferramentas e tecnologias utilizadas:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-- [Bootstrap](https://getbootstrap.com/)
-- CSS 
-- HTML
-- [JavaScript](https://www.javascript.com/)
 
 **Projeto modificado por:**
 _© Kauan Henrique Bertalha_ 
