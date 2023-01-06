@@ -1,5 +1,6 @@
 # projetosJavascript 
 ## Projetos para iniciante em Javascript 
+### Iniciado no dia 06/01/2023
 
 ## Ferramentas e tecnologias utilizadas:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -8,8 +9,6 @@
 - CSS 
 - HTML
 - [JavaScript](https://www.javascript.com/)
-
-### Iniciado no dia 06/01/2023
 
 "Aprender a programar aumenta a mente, ajuda a pensar melhor."
 > Bill Gates – Fundador da Microsoft
