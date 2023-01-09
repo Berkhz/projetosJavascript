@@ -18,7 +18,7 @@
 ## Projetos que serão realizados:
 - [x] Alternar tema claro/escuro usando HTML CSS e JavaScript;
 - [x] Relógio digital usando HTML CSS e JavaScript;
-- [ ] Temporizador de contagem regressiva usando HTML CSS e JavaScript;
+- [x] Temporizador de contagem regressiva usando HTML CSS e JavaScript;
 - [ ] Cronômetro usando HTML CSS e JavaScript;
 - [ ] Efeito Hacking Matrix usando HTML CSS e JavaScript;
 - [ ] Gerador de cores aleatórias usando HTML CSS e JavaScript;
