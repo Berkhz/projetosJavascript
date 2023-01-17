@@ -22,7 +22,7 @@
 - [x] Cronômetro usando HTML CSS e JavaScript;
 - [x] Efeito Hacking Matrix usando HTML CSS e JavaScript;
 - [x] Gerador de cores aleatórias usando HTML CSS e JavaScript;
-- [ ] Gerador de cor de fundo hexadecimal aleatório usando HTML, CSS e JavaScript;
+- [x] Gerador de cor de fundo hexadecimal aleatório usando HTML, CSS e JavaScript;
 - [ ] Crie uma calculadora usando HTML, CSS e JavaScript;
 - [ ] Calculadora de IMC usando HTML CSS e JavaScript;
 - [ ] Crie um reprodutor de música usando HTML, CSS e JavaScript;
