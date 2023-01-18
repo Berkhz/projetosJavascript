@@ -25,7 +25,7 @@ button.addEventListener('click',() => {
 
         if(imc < 18.6){
             result.innerHTML = 'Abaixo do peso: ' + imc;
-        }else if(imc >= 18.6 && 24.9){
+        }else if(imc >= 18.6 && imc < 24.9){
             result.innerHTML = 'Normal: ' + imc;
         }else{
             result.innerHTML = 'Acima do peso: ' + imc;
