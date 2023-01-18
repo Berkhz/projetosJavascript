@@ -1,8 +1,8 @@
 body{
-    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59); 
 }
 
-table.tbl{
+table.tb1{
     position: absolute;
     top: 45%;
     left: 50%;
